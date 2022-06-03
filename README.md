@@ -49,6 +49,5 @@ ___
 ***
 
 # 이미지 삽입하기
-![텍스트](이미지주소) 이미지의 이름과 이미지 주소를 입력합니다.
-
+![]() : 중괄호[] 안에는 텍스트 이름, 소괄호() 안에는 이미지의 주소를 입력합니다.
 ![피츄](https://static.wikia.nocookie.net/pokemon/images/b/ba/%EC%82%90%EC%AD%89%EA%B7%80_%ED%94%BC%EC%B8%84_%EB%AA%A8%EC%8A%B5.png/revision/latest?cb=20110708084140&path-prefix=ko)
