@@ -54,10 +54,10 @@ ___
 ![피츄](https://static.wikia.nocookie.net/pokemon/images/b/ba/%EC%82%90%EC%AD%89%EA%B7%80_%ED%94%BC%EC%B8%84_%EB%AA%A8%EC%8A%B5.png/revision/latest?cb=20110708084140&path-prefix=ko)
 
 # 코드 블럭 삽입하기
-`(키보드 숫자 1 왼쪽에 있는 기호, 물결 버튼)을 앞 뒤로 세번 입력하고, 코드 블럭을 나타낼 곳을 들여쓰기 합니다
-````
+`(키보드 숫자 1 왼쪽에 있는 기호, 물결 버튼)을 앞 뒤로 세번 입력하고, 들여쓰기로 코드를 작성합니다.
+'''
   import numpy as np
-```` 
+'''
 ```
   import numpy as np
 ```
