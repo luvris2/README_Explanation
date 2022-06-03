@@ -56,5 +56,5 @@ ___
 
 
 '''
-  import pandas as pd
+  private String name;
 '''
