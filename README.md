@@ -9,7 +9,7 @@
 
 
 
-'''
+''' python
 def main() :
   pass
 '''
