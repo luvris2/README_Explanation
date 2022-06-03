@@ -47,3 +47,7 @@
 ___
 - 별표(***)
 ***
+
+# 이미지 삽입하기
+
+![피츄][https://www.google.co.kr/url?sa=i&url=https%3A%2F%2Fpokemon.fandom.com%2Fko%2Fwiki%2F%25ED%2594%25BC%25EC%25B8%2584_(%25EB%258C%2580%25EB%2582%259C%25ED%2588%25AC)&psig=AOvVaw2AX2x8Y3N9Tf5Pf9VMRl2w&ust=1654379457579000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIDV6fChkvgCFQAAAAAdAAAAABAF]
