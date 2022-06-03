@@ -55,9 +55,9 @@ ___
 
 # 코드 블럭 삽입하기
 `(키보드 숫자 1 왼쪽에 있는 기호, 물결 버튼)을 앞 뒤로 세번 입력하고, 들여쓰기로 코드를 작성합니다.
-'''
-  import numpy as np
-'''
+- '''
+-   import numpy as np
+- '''
 ```
   import numpy as np
 ```
