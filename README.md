@@ -58,3 +58,6 @@ ___
 ```
   private String name;
 ```
+```
+  import numpy as np
+```
