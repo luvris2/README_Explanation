@@ -63,4 +63,8 @@ ___
 ```
 
 
+# 리드미 활동률
 ![리드미 활동](https://github-readme-stats.vercel.app/api?username=luvris2&show_icons=true&theme=radical)
+
+# 깃허브 주로 사용한 언어
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luvris2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
