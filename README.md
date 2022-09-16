@@ -61,3 +61,6 @@ ___
 ```
   import numpy as np
 ```
+
+
+![리드미 활동](https://github-readme-stats.vercel.app/api?username=luvris2&show_icons=true&theme=radical)
